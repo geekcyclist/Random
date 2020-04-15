@@ -2,7 +2,7 @@
 
 ## Pump
 
-- Laguna Max-Flo 2000
+- Laguna Max-Flo 2000 Purchased 4/2020
 - Hosing Connector Art. # PT-683
 
 ## Hoses
