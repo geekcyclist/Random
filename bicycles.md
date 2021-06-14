@@ -1,4 +1,4 @@
-2009 Orbea Opal - SN MAT6AoB0175  
+2009 Orbea Opal - SN MAT6AoB0175 (Probably size Medium)
 
 2004 Novara Randonee BI-0038? 
 
