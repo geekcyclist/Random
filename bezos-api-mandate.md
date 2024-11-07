@@ -1,6 +1,6 @@
-[Medium Back Story](https://konghq.com/blog/enterprise/api-mandate)
+[Steve Yegge Rant - essentially the original source](https://gist.github.com/chitchcock/1281611)
 
-[Steve Garvey Rant - essentially the original source](https://gist.github.com/chitchcock/1281611)
+[Medium Back Story](https://konghq.com/blog/enterprise/api-mandate)
 
 [Amazon CTO Vogel's Discussion of Innovating with APIs](https://deloitte.wsj.com/cio/amazon-cto-werner-vogels-on-innovating-with-apis-1524196930)
 
